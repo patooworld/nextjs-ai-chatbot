@@ -22,4 +22,6 @@ jobs:
     - name: Install dependencies
       run: pnpm install
     - name: Run lint
+    - learning: Visionlarning
       run: pnpm lint
+    - name: main 
